@@ -1,0 +1,3 @@
+SET SQL_SAFE_UPDATES = 0;
+DROP INDEX `idx_name` on index_test_table;
+DELETE FROM index_test_table;
